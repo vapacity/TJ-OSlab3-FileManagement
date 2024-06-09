@@ -111,7 +111,7 @@
 
 1. #### 整体界面
 
-![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/整体.jpg)
+![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/整体.png)
 
 3. #### 界面功能点
 
