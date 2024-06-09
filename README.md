@@ -117,103 +117,103 @@
 
    1. ##### 创建文件
 
-      ![创建文件](.\imgs\创建文件.png)
+      ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/创建文件.png)
 
       右键点击空白处创建
 
-      ![创建文件2](imgs\创建文件2.png)
+      ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/创建文件2.png)
 
-   2. ##### 打开文件
+   3. ##### 打开文件
 
-      ![打开文件](imgs\打开文件.png)
+      ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/打开文件.png)
 
-   3. ##### 写文件
+   5. ##### 写文件
 
-      ![写文件](imgs\写文件.png)
+      ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/写文件.png)
 
-   4. ##### 复制文件
+   7. ##### 复制文件
 
       支持ctrl+C的快捷键
 
-      ![复制文件](imgs\复制文件.png)
+      ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/复制文件.png)
 
-   5. ##### 粘贴文件
+   9. ##### 粘贴文件
 
       支持ctrl+V的快捷键
 
       粘贴在同一目录下如果有相同名字会增加"_copy"后缀
 
-      ![粘贴文件](imgs\粘贴文件.png)
+      ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/粘贴文件.png)
 
-   6. ##### 文件重命名
+   11. ##### 文件重命名
 
-      ![文件重命名](imgs\文件重命名.png)
+      ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/文件重命名.png)
 
-   7. ##### 查看文件属性
+   11. ##### 查看文件属性
 
       文件类型尚未开发
 
-      ![查看属性](imgs\查看属性.png)
+      ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/查看属性.png)
 
-   8. ##### 删除文件
+   11. ##### 删除文件
 
       支持delete快捷键
 
-      ![删除文件](imgs\删除文件.png)
+      ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/删除文件.png)
 
-   9. ##### 创建文件夹
+   11. ##### 创建文件夹
 
-      ![创建文件夹](imgs\创建文件夹.png)
+      ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/创建文件夹.png)
 
-   10. ##### 打开文件夹
+   11. ##### 打开文件夹
 
-       ![打开文件夹](imgs\打开文件夹.png)
+       ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/打开文件夹.png)
 
-   11. ##### 复制文件夹
+   13. ##### 复制文件夹
 
-       ![复制文件夹](imgs\复制文件夹.png)
+       ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/复制文件夹.png)
 
-   12. ##### 粘贴文件夹
+   15. ##### 粘贴文件夹
 
        递归复制文件夹内所有内容，同目录下重名更名规则与文件一致
 
-       ![粘贴文件夹2](imgs\粘贴文件夹2.png)
+       ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/粘贴文件夹2.png)
 
-   13. ##### 文件夹重命名
+   17. ##### 文件夹重命名
 
-       ![文件夹重命名](imgs\文件夹重命名.png)
+       ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/文件夹重命名.png)
 
-   14. ##### 文件夹属性
+   19. ##### 文件夹属性
 
        文件夹的size尚未开发
 
-       ![文件夹属性](imgs\文件夹属性.png)
+       ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/文件夹属性.png)
 
-   15. ##### 删除文件夹
+   21. ##### 删除文件夹
 
        递归删除文件夹内所有内容
 
-       ![删除文件夹](imgs\删除文件夹.png)
+       ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/删除文件夹.png)
 
-   16. ##### 目录显示
+   23. ##### 目录显示
 
-       ![目录显示](imgs\目录显示.png)
+       ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/目录显示.png)
 
        右键点击可选择展开/合拢文件夹
 
-       ​	![目录显示2](imgs\目录显示2.png)
+       ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/目录显示2.png)
 
-   17. ##### 目录跳转
+   25. ##### 目录跳转
 
        1. ###### 快速访问
 
-          ![双击跳转](imgs\双击跳转.png)
+          ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/双击跳转.png)
 
        2. ###### 地址跳转
 
           可以键入绝对路径跳转到对应目录下
 
-          ![地址跳转](imgs\地址跳转.png)
+          ![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/地址跳转.png)
 
 ## 五、总结
 
