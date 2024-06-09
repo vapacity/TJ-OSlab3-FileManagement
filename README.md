@@ -111,9 +111,9 @@
 
 1. #### 整体界面
 
-   ![整体](imgs\整体.png)
+![Image text](https://github.com/vapacity/TJ-OSlab3-FileManagement/blob/main/imgs/整体.jpg)
 
-2. #### 界面功能点
+3. #### 界面功能点
 
    1. ##### 创建文件
 
